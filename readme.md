@@ -42,4 +42,3 @@ Release pending
 * Removed: Copyright Fields
 * Added: Social Media Styles
 * Removed: Edit Link @ FrontEnd
-* Removed: Footer Margin
