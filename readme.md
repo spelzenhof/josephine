@@ -9,22 +9,8 @@ The Child Theme oona refers the [Theme Chaplin](https://andersnoren.se/themes/ch
 ## Modified Templates
 
 * Footer
-
-## New WordPress Templates
-
-* xxx
-
-## Plugin Dependencies
-
-Following plugins are required at runtime.
-
-* XXX [wpspelzenhof](https://github.com/spelzenhof/wpspelzenhof)
-
-## Custom Fields Dependencies
-
-Following custom fields are supported.
-
-* XXX
+* Content
+* Modal-Menu
 
 ## Installation
 
