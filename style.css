@@ -22,10 +22,13 @@
 
 .josephine-social {
     list-style-type: none;
+    margin-left:0;
 }
 
 .josephine-social li {
     display:inline;
+    margin-left:0;
+    margin-right:1.4em;
 }
 
 .josephine-social a {
@@ -36,7 +39,6 @@
 
 @media screen and (max-width: 782px) {
     .josephine-social {
-        margin-left:-18px;
         margin-top:40px !important;
     }
 }
